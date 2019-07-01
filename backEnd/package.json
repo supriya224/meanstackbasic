@@ -1,0 +1,25 @@
+{
+  "name": "meanstack",
+  "version": "1.0.0",
+  "description": "this is the mean stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supriya224/meanstackbasic.git"
+  },
+  "author": "puja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supriya224/meanstackbasic/issues"
+  },
+  "homepage": "https://github.com/supriya224/meanstackbasic#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.2"
+  }
+}
